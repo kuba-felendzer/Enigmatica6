@@ -265,3 +265,8 @@
 - XNetGases-1.16.4-2.2.3
 - YungsApi-1.16.4-Forge-4
 - [1.16.4]-additionalbars-1.6.0
+
+# To be added
+- OptiFine
+- Tinker's Construct
+- Tinker's Armor
